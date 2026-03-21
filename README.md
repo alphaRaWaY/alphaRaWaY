@@ -1,13 +1,20 @@
+
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 <h1> 💫 About Me </h1>
 
-<h3>
+![c9ffa33892287953e57fe76ad458c261](https://github.com/user-attachments/assets/fe23d64c-c3bc-4603-9ee7-ca1caf09b719)
+
+> she is Chino, shi is so kawaii ❤❤
+
+
   - 🎓 Software Engineering undergraduate student & Retired ACMer (Competitive Programming) <br/>
-  - 🚀 Focused on DevOps, CI/CD pipelines, and Cloud infrastructure automation <br/>
+  - 🚀 Focused on DevOps, CI/CD pipelines, and Cloud infrastructure automation.Now also AIOps and LLM calibration academically<br/>
   - 💻 Experienced in developing full-stack web applications and WeChat Mini-programs <br/>
   - 🛠️ Skilled in building decoupled, high-performance RESTful architectures <br/>
-</h3>
+  - 📫 You can reach me on my discord (alphaRaWaY_30823).
+  - 📕 please support my [blog](https://www.cnblogs.com/alphaRaWaY), thank you.
+
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
 
