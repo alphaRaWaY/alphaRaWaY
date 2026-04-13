@@ -3,9 +3,9 @@
 
 <h1> 💫 About Me </h1>
 
-<p align="center">
-    <img src="./assets/chino.gif" width=50%>
-</p>
+<!-- <p align="center"> -->
+<img src="./assets/chino.gif" width=40%>
+<!-- </p> -->
 
 <br>
 
