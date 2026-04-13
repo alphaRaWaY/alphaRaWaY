@@ -1,11 +1,16 @@
+<a href="https://github.com/alphaRaWaY"><img align="left" alt="React" width="100%" style="padding:10px;" src="./assets/Welcome.svg" /></a>
 
-<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 <h1> 💫 About Me </h1>
 
-![c9ffa33892287953e57fe76ad458c261](https://github.com/user-attachments/assets/fe23d64c-c3bc-4603-9ee7-ca1caf09b719)
+<p align="center">
+    <img src="./assets/chino.gif" width=50%>
+</p>
 
-> she is Chino, shi is so kawaii ❤❤
+<br>
+
+> [!IMPORTANT]  
+> she is Chino, she is so kawaii ❤❤
 
 
   - 🎓 Software Engineering undergraduate student & Retired ACMer (Competitive Programming) <br/>
@@ -15,97 +20,168 @@
   - 📫 You can reach me on my discord (alphaRaWaY_30823).
   - 📕 please support my [blog](https://www.cnblogs.com/alphaRaWaY), thank you.
 
-<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+<a href="#--about-me--"><img src="./assets/colorful_line.gif"></a>
 <br/><br/>
 
-<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+<h1> My Skill Sets </h1>
 
-
-### Languages
+### Backend & Full Stack
 <table>
-    <td align="center" width="90">
-        <a href="https://www.java.com/" target="_blank"><img alt="Java" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
-        <br><h4>Java</h4>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://www.java.com/" target="_blank">
+        <img alt="Java" width="48" height="48" src="https://skillicons.dev/icons?i=java" />
+      </a>
+      <br><h4>Java</h4>
     </td>
-    <td align="center" width="90">
-        <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-        <br><h4>JavaScript</h4>
+    <td align="center" width="110">
+      <a href="https://spring.io/" target="_blank">
+        <img alt="Spring" width="48" height="48" src="https://skillicons.dev/icons?i=spring" />
+      </a>
+      <br><h4>Spring</h4>
     </td>
-    <td align="center" width="90">
-        <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
-        <br><h4>TypeScript</h4>
+    <td align="center" width="110">
+      <a href="https://www.python.org/" target="_blank">
+        <img alt="Python" width="48" height="48" src="https://skillicons.dev/icons?i=python" />
+      </a>
+      <br><h4>Python</h4>
     </td>
-    <td align="center" width="90">
-        <a href="https://www.scala-lang.org/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/scala.webp" /></a>
-        <br><h4>Scala</h4>
+    <td align="center" width="110">
+      <a href="https://vuejs.org/" target="_blank">
+        <img alt="Vue" width="48" height="48" src="https://skillicons.dev/icons?i=vue" />
+      </a>
+      <br><h4>Vue</h4>
     </td>
-    <td align="center" width="90">
-        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
-        <br><h4>Python</h4>
+    <td align="center" width="110">
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img alt="TypeScript" width="48" height="48" src="https://skillicons.dev/icons?i=ts" />
+      </a>
+      <br><h4>TypeScript</h4>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img alt="JavaScript" width="48" height="48" src="https://skillicons.dev/icons?i=js" />
+      </a>
+      <br><h4>JavaScript</h4>
+    </td>
+    <td align="center" width="110">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img alt="HTML" width="48" height="48" src="https://skillicons.dev/icons?i=html" />
+      </a>
+      <br><h4>HTML</h4>
+    </td>
+    <td align="center" width="110">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img alt="CSS" width="48" height="48" src="https://skillicons.dev/icons?i=css" />
+      </a>
+      <br><h4>CSS</h4>
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img alt="MySQL" width="48" height="48" src="https://skillicons.dev/icons?i=mysql" />
+      </a>
+      <br><h4>MySQL</h4>
+    </td>
+    <td align="center" width="110">
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img alt="Flask" width="48" height="48" src="https://skillicons.dev/icons?i=flask" />
+      </a>
+      <br><h4>Flask</h4>
+    </td>
+  </tr>
 </table>
 
-### Libraries
+### AI / Research
 <table>
-    <td align="center" width="90">
-        <a href="https://react.dev/" target="_blank"><img alt="React width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-        <br><h4>React</h4>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://pytorch.org/" target="_blank">
+        <img alt="PyTorch" width="48" height="48" src="https://skillicons.dev/icons?i=pytorch" />
+      </a>
+      <br><h4>PyTorch</h4>
     </td>
-    <td align="center" width="90">
-        <a href="https://jquery.com/" target="_blank"><img alt="jQuery" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
-        <br><h4>jQuery</h4>
+    <td align="center" width="110">
+      <a href="https://www.latex-project.org/" target="_blank">
+        <img alt="LaTeX" width="48" height="48" src="https://skillicons.dev/icons?i=latex" />
+      </a>
+      <br><h4>LaTeX</h4>
     </td>
-    <td align="center" width="90">
-        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
-        <br><h4>Node.js</h4>
+    <td align="center" width="110">
+      <a href="https://www.anaconda.com/" target="_blank">
+        <img alt="Anaconda" width="48" height="48" src="https://skillicons.dev/icons?i=anaconda" />
+      </a>
+      <br><h4>Anaconda</h4>
     </td>
+  </tr>
 </table>
 
-### Frameworks
+### DevOps / Infra
 <table>
-    <td align="center" width="90">
-        <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-        <br><h4>Tailwind CSS</h4>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://www.docker.com/" target="_blank">
+        <img alt="Docker" width="48" height="48" src="https://skillicons.dev/icons?i=docker" />
+      </a>
+      <br><h4>Docker</h4>
     </td>
-    <td align="center" width="90">
-        <a href="https://angular.dev/" target="_blank"><img alt="Angular" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" /></a>
-        <br><h4>Angular</h4>
+    <td align="center" width="110">
+      <a href="https://nginx.org/" target="_blank">
+        <img alt="Nginx" width="48" height="48" src="https://skillicons.dev/icons?i=nginx" />
+      </a>
+      <br><h4>Nginx</h4>
     </td>
-    <td align="center" width="90">
-        <a href="https://vuejs.org/" target="_blank"><img alt="Vue" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" /></a>
-        <br><h4>Vue</h4>
+    <td align="center" width="110">
+      <a href="https://www.linux.org/" target="_blank">
+        <img alt="Linux" width="48" height="48" src="https://skillicons.dev/icons?i=linux" />
+      </a>
+      <br><h4>Linux</h4>
     </td>
-    <td align="center" width="90">
-        <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" /></a>
-        <br><h4>Django</h4>
+    <td align="center" width="110">
+      <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img alt="Bash" width="48" height="48" src="https://skillicons.dev/icons?i=bash" />
+      </a>
+      <br><h4>Bash</h4>
     </td>
+    <td align="center" width="110">
+      <a href="https://git-scm.com/" target="_blank">
+        <img alt="Git" width="48" height="48" src="https://skillicons.dev/icons?i=git" />
+      </a>
+      <br><h4>Git</h4>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://github.com/" target="_blank">
+        <img alt="GitHub" width="48" height="48" src="https://skillicons.dev/icons?i=github" />
+      </a>
+      <br><h4>GitHub</h4>
+    </td>
+    <td align="center" width="110">
+      <a href="https://github.com/features/actions" target="_blank">
+        <img alt="GitHub Actions" width="48" height="48" src="https://skillicons.dev/icons?i=githubactions" />
+      </a>
+      <br><h4>Actions</h4>
+    </td>
+    <td align="center" width="110">
+      <a href="https://ubuntu.com/" target="_blank">
+        <img alt="Ubuntu" width="48" height="48" src="https://skillicons.dev/icons?i=ubuntu" />
+      </a>
+      <br><h4>Ubuntu</h4>
+    </td>
+  </tr>
 </table>
 
-### Database
-<table>
-    <td align="center" width="90">
-        <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
-        <br><h4>MySQL</h4>
-    </td>
-</table>
+### Also working with
+<ul>
+  <li>Jupyter Notebook, UniApp, Netty, Scala, SQL, ARM Assembly</li>
+  <li>SSH / WSL, Alibaba Cloud ECS / VPC, RESTful API design</li>
+  <li>CI/CD pipelines, UML modeling, software documentation</li>
+  <li>LLM APIs, prompt engineering, model calibration, visualization</li>
+</ul>
 
-### Tools
-<table>
-    <td align="center" width="90">
-        <a href="https://github.com/" target="_blank"><img alt="Git" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
-        <br><h4>Git</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.docker.com/" target="_blank"><img alt="Docker" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
-        <br><h4>Docker</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.postman.com/" target="_blank"><img alt="Postman" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Postman.png" /></a>
-        <br><h4>Postman</h4>
-    </td>
-</table>
-
-<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+<a href="#--about-me--"><img src="./assets/colorful_line.gif"></a>
 
 <div style="display: flex; align-items: center">
   <h1> 
